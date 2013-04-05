@@ -1,0 +1,1 @@
+Example of lifelines d3 chart from the [Trifacta vega repo](https://github.com/trifacta/vega) but in this case, we made it from [clickme](https://github.com/nachocab/clickme).  See [post for full details](http://timelyportfolio.blogspot.com/2013/04/d3-lifeline-from-vega-and-clickme.html).
