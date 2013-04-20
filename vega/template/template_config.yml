@@ -14,21 +14,16 @@ scripts:
 styles:
     - http://trifacta.github.com/vega/css/vega.css
 
-default_parameters: {
-    width: 400,
-    height: 100,
-    spec,
-    spec_path,
-    title,
-    renderer: "svg",
-    viewport: "null",
-    padding,
-}
+params:
+    width: 400
+    height: 100
+    spec:
+    spec_path:
+    title:
+    renderer: "svg"
+    viewport: "null"
+    padding:
 
 require_packages:
     - rjson
     - df2json
-
-required_names:
-
-
